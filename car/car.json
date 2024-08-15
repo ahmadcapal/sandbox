@@ -1,0 +1,139 @@
+[
+  {
+    "toyota": {
+      "suv": [
+        { "model": "Fortuner", "year": [2023, 2022, 2021] },
+        { "model": "RAV4", "year": [2023, 2022, 2021] },
+        { "model": "Highlander", "year": [2023, 2022, 2021] }
+      ],
+      "sedan": [
+        { "model": "Camry", "year": [2023, 2022, 2021] },
+        { "model": "Corolla", "year": [2023, 2022, 2021] },
+        { "model": "Avalon", "year": [2023, 2022, 2021] }
+      ],
+      "coupe": [
+        { "model": "86", "year": [2023, 2022, 2021] },
+        { "model": "Supra", "year": [2023, 2022, 2021] }
+      ],
+      "minivan": [
+        { "model": "Sienna", "year": [2023, 2022, 2021] },
+        { "model": "Alphard", "year": [2023, 2022, 2021] }
+      ],
+      "van": [
+        { "model": "Hiace", "year": [2023, 2022, 2021] },
+        { "model": "Granvia", "year": [2023, 2022, 2021] }
+      ],
+      "pickup": [
+        { "model": "Hilux", "year": [2023, 2022, 2021] },
+        { "model": "Tacoma", "year": [2023, 2022, 2021] }
+      ],
+      "offRoad": [
+        { "model": "Land Cruiser", "year": [2023, 2022, 2021] },
+        { "model": "4Runner", "year": [2023, 2022, 2021] }
+      ],
+      "hatchback": [
+        { "model": "Yaris", "year": [2023, 2022, 2021] },
+        { "model": "Corolla Hatchback", "year": [2023, 2022, 2021] }
+      ]
+    },
+    "hyundai": {
+      "suv": [
+        { "model": "Tucson", "year": [2023, 2022, 2021] },
+        { "model": "Santa Fe", "year": [2023, 2022, 2021] }
+      ],
+      "sedan": [
+        { "model": "Sonata", "year": [2023, 2022, 2021] },
+        { "model": "Elantra", "year": [2023, 2022, 2021] }
+      ],
+      "coupe": [
+        { "model": "Veloster", "year": [2023, 2022, 2021] },
+        { "model": "Genesis Coupe", "year": [2023, 2022, 2021] }
+      ],
+      "minivan": [
+        { "model": "Staria", "year": [2023, 2022, 2021] },
+        { "model": "H-1", "year": [2023, 2022, 2021] }
+      ],
+      "van": [
+        { "model": "H-1", "year": [2023, 2022, 2021] },
+        { "model": "Porter", "year": [2023, 2022, 2021] }
+      ],
+      "pickup": [
+        { "model": "Santa Cruz", "year": [2023, 2022, 2021] },
+        { "model": "Porter", "year": [2023, 2022, 2021] }
+      ],
+      "offRoad": [
+        { "model": "Galloper", "year": [2023, 2022, 2021] },
+        { "model": "Terracan", "year": [2023, 2022, 2021] }
+      ],
+      "hatchback": [
+        { "model": "i30", "year": [2023, 2022, 2021] },
+        { "model": "i20", "year": [2023, 2022, 2021] }
+      ]
+    },
+    "ford": {
+      "suv": [
+        { "model": "Explorer", "year": [2023, 2022, 2021] },
+        { "model": "Escape", "year": [2023, 2022, 2021] }
+      ],
+      "sedan": [
+        { "model": "Fusion", "year": [2023, 2022, 2021] },
+        { "model": "Focus", "year": [2023, 2022, 2021] }
+      ],
+      "coupe": [
+        { "model": "Mustang", "year": [2023, 2022, 2021] },
+        { "model": "GT", "year": [2023, 2022, 2021] }
+      ],
+      "minivan": [
+        { "model": "Tourneo Connect", "year": [2023, 2022, 2021] },
+        { "model": "Transit Connect", "year": [2023, 2022, 2021] }
+      ],
+      "van": [
+        { "model": "Transit", "year": [2023, 2022, 2021] },
+        { "model": "E-Series", "year": [2023, 2022, 2021] }
+      ],
+      "pickup": [
+        { "model": "Ranger", "year": [2023, 2022, 2021] },
+        { "model": "F-150", "year": [2023, 2022, 2021] }
+      ],
+      "offRoad": [
+        { "model": "Bronco", "year": [2023, 2022, 2021] },
+        { "model": "Raptor", "year": [2023, 2022, 2021] }
+      ],
+      "hatchback": [
+        { "model": "Fiesta", "year": [2023, 2022, 2021] },
+        { "model": "Focus Hatchback", "year": [2023, 2022, 2021] }
+      ]
+    },
+    "mazda": {
+      "suv": [
+        { "model": "CX-5", "year": [2023, 2022, 2021] },
+        { "model": "CX-9", "year": [2023, 2022, 2021] }
+      ],
+      "sedan": [
+        { "model": "Mazda6", "year": [2023, 2022, 2021] },
+        { "model": "Mazda3", "year": [2023, 2022, 2021] }
+      ],
+      "coupe": [{ "model": "MX-5 Miata", "year": [2023, 2022, 2021] }],
+      "minivan": [{ "model": "Mazda5", "year": [2023, 2022, 2021] }],
+      "van": [],
+      "pickup": [{ "model": "BT-50", "year": [2023, 2022, 2021] }],
+      "offRoad": [],
+      "hatchback": [{ "model": "Mazda3 Hatchback", "year": [2023, 2022, 2021] }]
+    },
+    "volkswagen": {
+      "suv": [
+        { "model": "Tiguan", "year": [2023, 2022, 2021] },
+        { "model": "Atlas", "year": [2023, 2022, 2021] }
+      ],
+      "sedan": [
+        { "model": "Passat", "year": [2023, 2022, 2021] },
+        { "model": "Jetta", "year": [2023, 2022, 2021] }
+      ],
+      "coupe": [],
+      "minivan": [{ "model": "Caravelle", "year": [2023, 2022, 2021] }],
+      "van": [{ "model": "Transporter", "year": [2023, 2022, 2021] }],
+      "pickup": [{ "model": "Amarok", "year": [2023, 2022, 2021] }],
+      "offRoad": []
+    }
+  }
+]
